@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version = "1.0">
+<qresource>
+    <file alias="icon.png">resources/icon.png</file>
+    <file alias="Smith_chart.svg">resources/Smith_Chart.svg</file>
+    <file alias="New-file-icon.png">resources/New-file-icon.png</file>
+    <file alias="Open-file-icon.png">resources/Open-file-icon.png</file>
+    <file alias="Save-icon.png">resources/Save-icon.png</file>
+    <file alias="Exit-icon.png">resources/Exit-icon.png</file>
+    <file alias="Undo-icon.png">resources/Undo-icon.png</file>
+    <file alias="Redo-icon.png">resources/Redo-icon.png</file>
+    <file alias="Cut-icon.png">resources/Cut-icon.png</file>
+    <file alias="Copy-icon.png">resources/Copy-icon.png</file>
+    <file alias="Paste-icon.png">resources/Paste-icon.png</file>
+    <file alias="Settings-icon.png">resources/Settings-icon.png</file>
+    <file alias="help-icon.png">resources/help-icon.png</file>
+    <file alias="Help-contents-icon.png">resources/Help-contents-icon.png</file>
+    <file alias="About-icon.png">resources/About-icon.png</file>
+    <file alias="Calculator-icon.png">resources/Calculator-icon.png</file>
+    <file alias="Apply-icon.png">resources/Apply-icon.png</file>
+    <file alias="Accept-icon.png">resources/Accept-icon.png</file>
+    <file alias="Cancel-icon.png">resources/Cancel-icon.png</file>
+    <file alias="Add-icon.png">resources/Add-icon.png</file>
+    <file alias="Recycle-icon.png">resources/Recycle-icon.png</file>
+    <file alias="url-icon.png">resources/url-icon.png</file>
+    <file alias="PCB-icon.png">resources/PCB-icon.png</file>
+    <file alias="Denied-icon.png">resources/Denied-icon.png</file>
+</qresource>
+</RCC>
